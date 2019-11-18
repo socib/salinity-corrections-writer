@@ -1,0 +1,6 @@
+netCDF4
+gsw==3.0.3
+scipy
+psycopg2
+psycopg2-binary
+pandas
